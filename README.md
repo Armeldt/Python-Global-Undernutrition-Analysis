@@ -2,6 +2,26 @@
 
 ![alt text](https://github.com/Armeldt/Python-Global-Undernutrition-Analysis/blob/main/Ressources/logo.png?raw=true)
 
-As part of this project, I worked on a fictional scenario involving a team at the Food and Agriculture Organization of the United Nations (FAO). The goal was to conduct an extensive study on global undernutrition, using real-world datasets to analyze food consumption patterns and hunger across different regions.
+## Detailed Project Description:
 
-I was responsible for handling the data, performing exploratory analysis, and generating insights to support the FAO's mission of building a world free from hunger. Using tools like Python, I had the flexibility to enhance the provided analysis and add my own interpretations to help deepen the understanding of global nutrition issues.
+As part of a fictional scenario during my data analyst training, I contributed to a project with the Food and Agriculture Organization (FAO) of the United Nations. The goal was to conduct an in-depth study on global undernutrition and provide insights into food consumption patterns across various regions.
+
+### Key Tasks and Objectives:
+
+1. Data Analysis:
+
+    - Analyze large datasets provided by the FAO, focusing on the nutritional status of different regions and identifying trends in undernutrition.
+    
+    - Use Python to clean, process, and explore the data to reveal patterns related to global hunger.
+    
+2. Exploratory Analysis:
+
+    - Generate insights into food availability and undernutrition using Python libraries such as Pandas and Matplotlib for data visualization.
+      
+3. Reporting and Presentation:
+
+    - Create a detailed report on the analysis, along with visualizations, to support FAO’s efforts to combat global hunger.
+
+    - Present the results and explain the methodologies in a professional notebook, using Python for the entire workflow.
+  
+By completing this project, I contributed valuable data-driven insights to a hypothetical FAO initiative aimed at reducing global hunger and undernutrition.
