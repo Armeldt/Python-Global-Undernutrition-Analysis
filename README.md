@@ -1,4 +1,5 @@
-# Python-Global-Undernutrition-Analysis
+# Global Undernutrition Analysis Project
+
 Data analysis of global undernutrition using Python to explore food consumption patterns and support the FAO's mission to combat hunger.
 
 ![alt text](https://github.com/Armeldt/Python-Global-Undernutrition-Analysis/blob/main/Ressources/logo.png?raw=true)
